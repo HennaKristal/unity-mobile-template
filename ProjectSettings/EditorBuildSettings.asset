@@ -9,6 +9,7 @@ EditorBuildSettings:
     path: Assets/Game.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:
+    com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: 3c4aa1e4a764d115c8f5dde5111ee089, type: 2}
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: f73fcb045a46d834b89f2f5c9a7c16fc, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 8e6b7b23636ba46489798e406aa36d9e, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 152949b40bf8f8640988ab29aa507c00, type: 2}
